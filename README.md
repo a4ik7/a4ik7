@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm Abhigyan Sati , a Cse engineer and cybersecurity learner , building practical projects with Python and exploring cybersecurity
+Hi, I'm Abhigyan Sati, an Engineering Student and Cybersecurity Enthusiast passionate about technology, programming, and ethical hacking. I have experience with C, C++, Python, Bash, and Java, along with expertise in Node.js and MySQL. I'm particularly interested in cybersecurity and currently practicing Red Teaming, offensive security, and ethical hacking in authorized environments. I'm always learning new technologies, improving my programming skills, and exploring the world of cybersecurity.<br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ i'm Abhigyan Sati , a Cse engineer and cybersecurity learner , building practica
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=a4ik7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=a4ik7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=a4ik7&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
