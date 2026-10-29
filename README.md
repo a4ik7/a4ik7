@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/cyber-profile-banner.svg" alt="Abhigyan Sati Banner" width="100%" />
-
   <br /><br />
 
   <h1>Hi, I'm Abhigyan Sati 👋</h1>
