@@ -30,22 +30,11 @@ I am a cybersecurity student focused on **Red Teaming, Offensive Security, and W
 - ⚙️ **Core Philosophy**: Native binaries over bloated third-party tools. Zero dependencies, low footprint, maximum efficiency.
 - 🔭 **Research Interests**: DFIR artifact generation (Prefetch, JumpLists, WER, USN Journal), process injection fundamentals, and offensive PowerShell.
 
----
-
-### 🧰 Technical Arsenal
-
-#### ⚔️ Offensive Security & Systems
-```
-• Windows Internals (Prefetch, JumpLists, VolumeCaches, WER, Registry DACLs)
-• Network Enumeration & Protocol Analysis (Nmap, Wireshark, Burp Suite)
-• Privilege Escalation & Artifact Hygiene (Windows & Linux)
-• Active Directory Architecture & Threat Emulation
-```
 
 #### 💻 Tooling & Scripting
 - **Languages**: Python, PowerShell, Bash, C, C++, Java, Node.js
 - **Databases**: SQLite, MySQL
-- **Environments**: Windows 10/11, Kali Linux, Ubuntu, Windows Server
+- **Environments**: Windows 10/11, Kali Linux, Ubuntu.
 
 ---
 
@@ -73,7 +62,3 @@ I am a cybersecurity student focused on **Red Teaming, Offensive Security, and W
 </div>
 
 ---
-
-<p align="center">
-  <em>"Security through understanding the architecture from the ground up."</em>
-</p>
