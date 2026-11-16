@@ -1,6 +1,6 @@
 # Abhigyan Sati (a4ik7)
 
-`Cybersecurity Student` &bull; `Red Teaming & Windows Internals` &bull; `Tool Developer`
+`Cybersecurity` &bull; `Red Teaming` &bull; `Tool Developer`
 
 Building lightweight, native security tools, analyzing Windows forensic artifacts, and exploring low-level OS internals.
 
@@ -15,8 +15,7 @@ a4ik7@workstation:~$ whoami
 User       : Abhigyan Sati (@a4ik7)
 Focus      : Windows Internals, Artifact Hygiene, Native Post-Exploitation
 Stack      : C/C++, Python, PowerShell, Bash, SQLite
-Philosophy : Native OS binaries over bloated 3rd-party tools (Zero Dependencies)
-OS Targets : Windows 10/11, Kali Linux, Ubuntu Server
+OS Targets : Windows 10/11, Kali Linux
 ```
 
 ---
