@@ -1,64 +1,51 @@
-<div align="center">
+# Abhigyan Sati (a4ik7)
 
-  <br /><br />
+`Cybersecurity Student` &bull; `Red Teaming & Windows Internals` &bull; `Tool Developer`
 
-  <h1>Hi, I'm Abhigyan Sati 👋</h1>
+Building lightweight, native security tools, analyzing Windows forensic artifacts, and exploring low-level OS internals.
 
-  <p>
-    <strong>Cybersecurity Student • Aspiring Red Teamer • Systems &amp; Tool Developer</strong>
-  </p>
-
-  <p>
-    <em>Specializing in Windows Internals, Artifact Hygiene, Offensive Security Automation, and Native Scripting.</em>
-  </p>
-
-  <p>
-    <a href="mailto:a4ik777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/a4ik7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://instagram.com/a4ik.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
-
-</div>
+[Email](mailto:a4ik777@gmail.com) &bull; [GitHub](https://github.com/a4ik7)
 
 ---
 
-### 🛡️ About Me
+### ⚡ Quick Overview
 
-I am a cybersecurity student focused on **Red Teaming, Offensive Security, and Windows Internals**. I build tools that explore the boundary between administrative automation and system forensics—analyzing how operating systems track execution, manage transient artifacts, and handle low-level memory structures.
-
-- 🎯 **Current Focus**: Windows post-exploitation techniques, Active Directory attack paths, and native artifact reduction.
-- ⚙️ **Core Philosophy**: Native binaries over bloated third-party tools. Zero dependencies, low footprint, maximum efficiency.
-- 🔭 **Research Interests**: DFIR artifact generation (Prefetch, JumpLists, WER, USN Journal), process injection fundamentals, and offensive PowerShell.
-
-
-#### 💻 Tooling & Scripting
-- **Languages**: Python, PowerShell, Bash, C, C++, Java, Node.js
-- **Databases**: SQLite, MySQL
-- **Environments**: Windows 10/11, Kali Linux, Ubuntu.
+```text
+a4ik7@workstation:~$ whoami
+User       : Abhigyan Sati (@a4ik7)
+Focus      : Windows Internals, Artifact Hygiene, Native Post-Exploitation
+Stack      : C/C++, Python, PowerShell, Bash, SQLite
+Philosophy : Native OS binaries over bloated 3rd-party tools (Zero Dependencies)
+OS Targets : Windows 10/11, Kali Linux, Ubuntu Server
+```
 
 ---
 
-### 🚀 Featured Repositories
+### 🛠️ Featured Repositories
 
-| Project | Description | Stack | Stars |
-| :--- | :--- | :---: | :---: |
-| 🛡️ [**windows-deep-cleaner**](https://github.com/a4ik7/windows-deep-cleaner) | Native Windows disk cleanup and forensic artifact hygiene engine. Purges prefetch, JumpLists, shaders, and updates using native LOLBins with zero dependencies. | `Batch` `PowerShell` | ![Stars](https://img.shields.io/github/stars/a4ik7/windows-deep-cleaner?style=social) |
-| 🧹 [**Pc-Cleaner-Pro**](https://github.com/a4ik7/Pc-Cleaner-Pro) | Modern cross-platform storage optimizer featuring a CustomTkinter GUI, hardware telemetry dashboard, and automated cache cleanup. | `Python` `CustomTkinter` | ![Stars](https://img.shields.io/github/stars/a4ik7/Pc-Cleaner-Pro?style=social) |
-| 🤖 [**Neurabot-chat**](https://github.com/a4ik7/Neurabot-chat) | Fully offline pattern-matching conversational chatbot backed by SQLite knowledge base and a Tkinter interface. | `Python` `Tkinter` `SQLite` | ![Stars](https://img.shields.io/github/stars/a4ik7/Neurabot-chat?style=social) |
+| Repository | Focus & Stack | Description |
+| :--- | :---: | :--- |
+| 🛡️ [**windows-deep-cleaner**](https://github.com/a4ik7/windows-deep-cleaner) | `Batch` &bull; `PowerShell` | Zero-dependency Windows disk & forensic artifact cleaner. Purges Prefetch, JumpLists, shader caches, and update residue via native LOLBins. |
+| 🧹 [**Pc-Cleaner-Pro**](https://github.com/a4ik7/Pc-Cleaner-Pro) | `Python` &bull; `CustomTkinter` | Cross-platform desktop storage optimizer and telemetry dashboard with real-time partition statistics. |
+| 🤖 [**Neurabot-chat**](https://github.com/a4ik7/Neurabot-chat) | `Python` &bull; `SQLite` | 100% offline conversational engine utilizing fuzzy sequence pattern matching and local SQLite storage. |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=a4ik7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a4ik7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a4ik7&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=a4ik7&theme=dark&hide_border=false" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a4ik7&theme=tokyonight&hide_border=true&background=0B0F19&ring=EF4444&fire=F43F5E&currStreakLabel=EF4444" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4ik7&theme=tokyonight&hide_border=true&background=0B0F19&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 ---
+
+<p align="center">
+  <sub>Open-source security research &bull; <a href="https://github.com/a4ik7">Abhigyan Sati (@a4ik7)</a></sub>
+</p>
